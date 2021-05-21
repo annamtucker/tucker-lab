@@ -1,12 +1,13 @@
 ---
 title: Anna Tucker
 role: Assistant Unit Leader (Wildlife) and Assistant Professor
+avatar_filename: kayak_selfie.jpg
 bio: ""
 interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:amtucker@usgs.gov
+    link: mailto:tuckera@iastate.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/annamtucker_
