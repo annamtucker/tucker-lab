@@ -8,8 +8,8 @@ publication: The Condor
 draft: false
 featured: false
 image:
-  filename: featured
-  focal_point: Smart
+  filename: jean-hall_36186421952_o.jpg
+  focal_point: BOTTOMRIGHT
   preview_only: false
 date: 2021-05-21T16:22:54.085Z
 ---
