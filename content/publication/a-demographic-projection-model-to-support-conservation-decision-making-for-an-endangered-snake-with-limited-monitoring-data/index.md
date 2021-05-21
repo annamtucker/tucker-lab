@@ -9,7 +9,7 @@ publication: Animal Conservation
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: pr-boa_jpz6303.jpg
   focal_point: Smart
   preview_only: false
 date: 2021-05-21T16:21:02.808Z
