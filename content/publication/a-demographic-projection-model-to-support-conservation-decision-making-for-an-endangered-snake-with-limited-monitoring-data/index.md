@@ -5,6 +5,7 @@ publication_types:
   - "2"
 authors:
   - https://doi.org/10.1111/acv.12641
+publication: Animal Conservation
 draft: false
 featured: false
 image:
