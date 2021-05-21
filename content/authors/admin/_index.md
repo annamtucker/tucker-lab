@@ -33,8 +33,7 @@ education:
       year: 2010
 email: ""
 superuser: true
-user_groups:
-  - Researchers
+user_groups: []
 highlight_name: false
 ---
 I’m broadly interested in understanding full annual cycle population dynamics (with a special interest in migratory species) using quantitative tools that help us predict population responses to changing environmental conditions. I am trained in decision analysis and use the tenets of structured decision making to guide my work with managers. My research combines full life cycle ecology, quantitative methods, and applications to management and conservation issues.
