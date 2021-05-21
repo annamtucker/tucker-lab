@@ -8,7 +8,7 @@ publication: Ecosphere
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: jean-hall_36310664056_o.jpg
   focal_point: Smart
   preview_only: false
 date: 2021-05-21T16:22:30.947Z
