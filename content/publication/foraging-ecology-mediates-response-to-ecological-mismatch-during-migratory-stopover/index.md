@@ -4,6 +4,7 @@ title: Foraging ecology mediates response to ecological mismatch during
 publication_types:
   - "2"
 doi: https://doi.org/10.1002/ecs2.2898
+publication: Ecosphere
 draft: false
 featured: false
 image:
